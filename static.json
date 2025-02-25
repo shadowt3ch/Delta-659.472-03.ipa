@@ -2,6 +2,9 @@
   "headers": {
     "/manifest.plist": {
       "Content-Type": "application/x-plist"
+    },
+    "/Delta-659.472-03.ipa": {
+      "Content-Type": "application/octet-stream"
     }
   }
 }
