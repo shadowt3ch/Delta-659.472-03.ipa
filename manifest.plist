@@ -1,31 +1,48 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-  <dict>
-    <key>items</key>
-    <array>
-      <dict>
-        <key>assets</key>
-        <array>
-          <dict>
-            <key>kind</key>
-            <string>software-package</string>
-            <key>url</key>
-            <string>https://dl.dropboxusercontent.com/scl/fi/bybgm5knkbk7gl9dpw5ho/Delta-659.472-03.ipa</string>
-          </dict>
-        </array>
-        <key>metadata</key>
-        <dict>
-          <key>bundle-identifier</key>
-          <string>com.yourapp.bundle</string>
-          <key>bundle-version</key>
-          <string>659.472-03</string>
-          <key>kind</key>
-          <string>software</string>
-          <key>title</key>
-          <string>Delta</string>
-        </dict>
-      </dict>
-    </array>
-  </dict>
+<blockquote style="all: initial !important; z-index: 2147483647 !important; width: auto !important; position: fixed !important; bottom: 16px !important; left: 16px !important;">
+<style type="text/css"> @font-face { font-family: 'Montserrat'; src: url("chrome-extension://daekmmlfbbfdbbhaagleepahmepoiafk/fonts/woff2/Montserrat-Medium.woff2") format('woff2'), url("chrome-extension://daekmmlfbbfdbbhaagleepahmepoiafk/fonts/ttf/Montserrat-Medium.ttf") format('truetype'); font-weight: 500; font-style: normal; } </style>
+</blockquote>
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://dl.dropboxusercontent.com/scl/fi/bybgm5knkbk7gl9dpw5ho/Delta-659.472-03.ipa</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://deltaios-executor.com/AppIcon.png</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>full-size-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>Delta</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.gloop.deltamobile</string>
+<key>bundle-version</key>
+<string>1</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>Delta</string>
+</dict>
+</dict>
+</array>
+</dict>
 </plist>
